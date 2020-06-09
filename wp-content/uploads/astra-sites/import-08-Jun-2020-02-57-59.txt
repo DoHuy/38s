@@ -1,0 +1,51 @@
+
+Source - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2017/12/mens-fashion-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2017/12/mens-fashion-free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2017\/12\/mens-fashion-free-img.jpg","id":"66"}
+Inserted - Post 10 - attachment - mens-fashion-free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost:8888/wp-content/uploads/2020/06/mens-fashion-free-img.jpg
+Source - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2017/12/womens-fashion-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2017/12/womens-fashion-free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2017\/12\/womens-fashion-free-img.jpg","id":"67"}
+Inserted - Post 11 - attachment - womens-fashion-free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost:8888/wp-content/uploads/2020/06/womens-fashion-free-img.jpg
+Source - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2017/12/shoes-fashion-free-omg.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2017/12/shoes-fashion-free-omg.jpg
+Log - {"url":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2017\/12\/shoes-fashion-free-omg.jpg","id":"69"}
+Inserted - Post 12 - attachment - shoes-fashion-free-omg.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost:8888/wp-content/uploads/2020/06/shoes-fashion-free-omg.jpg
+Source - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2017/12/accessories-fashion-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2017/12/accessories-fashion-free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2017\/12\/accessories-fashion-free-img.jpg","id":"70"}
+Inserted - Post 13 - attachment - accessories-fashion-free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost:8888/wp-content/uploads/2020/06/accessories-fashion-free-img.jpg
+Source - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2017/12/home-banner1-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2017/12/home-banner1-free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2017\/12\/home-banner1-free-img.jpg","id":"382"}
+Inserted - Post 14 - attachment - home-banner1-free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost:8888/wp-content/uploads/2020/06/home-banner1-free-img.jpg
+Source - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2020/01/banner-01.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2020/01/banner-01.jpg
+Log - {"url":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2020\/01\/banner-01.jpg","id":"632"}
+Inserted - Post 15 - attachment - banner-01.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost:8888/wp-content/uploads/2020/06/banner-01.jpg
+Source - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2020/01/brandstore-men-fashion.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2020/01/brandstore-men-fashion.jpg
+Log - {"url":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2020\/01\/brandstore-men-fashion.jpg","id":"637"}
+Inserted - Post 16 - attachment - brandstore-men-fashion.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost:8888/wp-content/uploads/2020/06/brandstore-men-fashion.jpg
+Source - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2020/01/brandstore-women-fashion.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2020/01/brandstore-women-fashion.jpg
+Log - {"url":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2020\/01\/brandstore-women-fashion.jpg","id":"639"}
+Inserted - Post 17 - attachment - brandstore-women-fashion.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost:8888/wp-content/uploads/2020/06/brandstore-women-fashion.jpg
+Source - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2020/01/brandstore-shoes.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2020/01/brandstore-shoes.jpg
+Log - {"url":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2020\/01\/brandstore-shoes.jpg","id":"642"}
+Inserted - Post 18 - attachment - brandstore-shoes.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost:8888/wp-content/uploads/2020/06/brandstore-shoes.jpg
+Source - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2020/01/brandstore-accessories.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/brandstore-05/wp-content/uploads/sites/313/2020/01/brandstore-accessories.jpg
+Log - {"url":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2020\/01\/brandstore-accessories.jpg","id":"645"}
+Inserted - Post 19 - attachment - brandstore-accessories.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost:8888/wp-content/uploads/2020/06/brandstore-accessories.jpg
